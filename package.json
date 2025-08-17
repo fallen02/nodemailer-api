@@ -30,10 +30,5 @@
     "helmet": "^8.1.0",
     "nodemailer": "^7.0.5",
     "ts-node": "^10.9.2"
-  },
-  "pre-commit": [
-      "ts.check",
-      "build",
-      "add-build"
-  ]
+  }
 }
